@@ -4,6 +4,8 @@
 
 Allow users to post reviews on your products and/or rate them based on specific criteria.
 
+This is my last commit on this repo. My sibling @leemyongpakva will continue my Code-Of-PS works :)
+
 ## Compatibility
 
 PrestaShop: `1.7.7` or newer
